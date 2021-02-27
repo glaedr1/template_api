@@ -34,3 +34,6 @@ func main() {
 func main()  {
 	fmt.Printf("hi" )
 }
+func sort()  {
+	fmt.Printf(" bro")
+}
